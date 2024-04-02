@@ -64,8 +64,6 @@ def Update(program_name, Tbody):
             json.dump(suckless_programs, json_file, indent=4)
 
 def main():
-    Response = requests.get(suckless_programs['dwm'][0], headers=headers)
-    Tbody = BeautifulSoup(Response.text, "html.parser").find("tbody").find_all("tr")
     for key, val in suckless_programs.items():
         Response = requests.get(val[0], headers=headers) 
         Tbody = BeautifulSoup(Response.text, "html.parser").find("tbody")
