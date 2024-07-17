@@ -1,7 +1,7 @@
 # Python Version: 3.12.2
 # Requests lib Version: 2.31.0
 # BeautifulSoup lib Version: 4.12.3
-# Autor: 盛wei
+# Autor: pacfrog.ysw
 
 # This is my first crawler written in Python,  
 # Purpose is to remind me to manually patch some of my suckless programs which have a new commit.
