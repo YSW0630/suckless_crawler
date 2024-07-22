@@ -4,7 +4,7 @@ This is my first crawler for those who wants to check their suckless programs ar
 
 ## The reason I make this crawler
 
-I used dwm 6.4 with lots of patches without git then, but when 6.5 version released, I need to download it and re-patched all again.
+I used dwm 6.4 with lots of patches without git, but when 6.5 version released, I need to download it and re-patched all again.
 
 ## The reason I'm still using this crawler
 
